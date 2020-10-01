@@ -4,7 +4,7 @@ import "./style.css";
 function About() {
     return (
         <div>
-            <h1>About</h1>
+            <h1>About page coming soon</h1>
         </div>
     )
 }

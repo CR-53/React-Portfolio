@@ -1,0 +1,38 @@
+[
+    {
+        "appName": "EPL Fixture Guide",
+        "image": "https://i.ibb.co/zPpf2Jr/EPL-Fixture-Guide.png",
+        "deployed": "https://thomasmaglaris.github.io/epl-fixture-guide/",
+        "repo": "https://github.com/thomasmaglaris/epl-fixture-guide"
+    },
+    {
+        "appName": "Employee Tracker",
+        "image": "https://i.ibb.co/ZBg1X2b/Employee-Tracker.png",
+        "deployed": "https://cr-53.github.io/Weather-Dashboard/",
+        "repo": "https://github.com/CR-53/Employee-Tracker"
+    },
+    {
+        "appName": "Weather Dashboard",
+        "image": "https://i.ibb.co/kcSv2mS/Weather-Dashboard.png",
+        "deployed": "https://thomasmaglaris.github.io/epl-fixture-guide/",
+        "repo": "https://github.com/CR-53/Weather-Dashboard"
+    },
+    {
+        "appName": "Bin Out",
+        "image": "https://i.ibb.co/pjqTkNt/Bin-Out.png",
+        "deployed": "https://bin-out.herokuapp.com/",
+        "repo": "https://github.com/benorule/bin-out"
+    },
+    {
+        "appName": "Workday Scheduler",
+        "image": "https://i.ibb.co/Tmnb5qX/Workday-Scheduler.png",
+        "deployed": "https://cr-53.github.io/Work-Day-Schedular/Develop/index.html",
+        "repo": "https://github.com/CR-53/Work-Day-Schedular"
+    },
+    {
+        "appName": "Coding Quiz",
+        "image": "https://i.ibb.co/Xpz7XJS/Coding-Quiz.png",
+        "deployed": "https://cr-53.github.io/Code-Quiz/Develop/index.html",
+        "repo": "https://github.com/CR-53/Code-Quiz"
+    }
+]
