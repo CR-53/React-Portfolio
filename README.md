@@ -3,6 +3,7 @@
 ## Description
 A portfolio showcasing some of my projects and applications from the Adelaide University Coding Bootcamp. Portfolio created using React.  
 
+![Example of Generated Readme](src/Assets/Images/readme-screenshot.png)
 
 ![License badge](https://img.shields.io/badge/license-MIT-green)
 
