@@ -20,7 +20,7 @@ None.
 
 
 ## Usage
-You can view my porfolio here:
+You can view my porfolio here: https://cr-53.github.io/React-Portfolio/
 
 
 ## License
