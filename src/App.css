@@ -1,5 +1,14 @@
 .page-heading {
   margin-bottom: 40px;
+  color: #34495ed6 !important;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  color: #f1c40f;
+}
+
+* {
+  font-family: 'Roboto Slab', serif;
 }
 
 .App {
